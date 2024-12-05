@@ -1,0 +1,11 @@
+{
+    "task": [
+        {
+            "id": 1,
+            "title": "daniel",
+            "status": "pendiente",
+            "created_at": "2024-12-05T09:45:56.048090",
+            "update_at": "2024-12-05T09:45:56.048118"
+        }
+    ]
+}
